@@ -2,4 +2,5 @@
 pwd
 ls
 cd
-ls -l 
+ls -l
+ls -la 
