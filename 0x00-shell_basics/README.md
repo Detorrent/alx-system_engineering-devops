@@ -18,3 +18,4 @@ mv [[:upper:]]* /tmp/u_
 rm *~
 mkdir -p welcome/to/school
 ls -amvp
+0 string SCHOOL School data !:mime School
