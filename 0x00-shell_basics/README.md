@@ -12,4 +12,5 @@ rmdir /tmp/my_first_directory
 cd - 
 ls -al . ../boot
 file /tmp/iamafile
-ln -s /bin/ls __ls__
+ln -s /bin/ls __ls_
+cp -un *.html ../_
