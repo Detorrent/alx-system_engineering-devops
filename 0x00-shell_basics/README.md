@@ -17,3 +17,4 @@ cp -un *.html ../
 mv [[:upper:]]* /tmp/u_
 rm *~
 mkdir -p welcome/to/school
+ls -amvp
