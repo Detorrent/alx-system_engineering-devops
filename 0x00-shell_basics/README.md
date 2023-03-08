@@ -12,3 +12,4 @@ rmdir /tmp/my_first_directory
 cd - 
 ls -al . ../boot
 file /tmp/iamafile
+ln -s /bin/ls __ls__
