@@ -11,3 +11,4 @@ rm /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory
 cd - 
 ls -al . ../boot
+file /tmp/iamafile
