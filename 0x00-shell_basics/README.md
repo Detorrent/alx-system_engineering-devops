@@ -15,3 +15,4 @@ file /tmp/iamafile
 ln -s /bin/ls __ls_
 cp -un *.html ../
 mv [[:upper:]]* /tmp/u_
+rm *~
